@@ -1,0 +1,1323 @@
+[{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768b6"
+  },
+  "Pname": "OperatingSystem",
+  "Pnumber": "61",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768b7"
+  },
+  "Pname": "Advertizing",
+  "Pnumber": "70",
+  "Dname": "HR",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Ray",
+      "EMP_FNAME": "King",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jill",
+      "EMP_FNAME": "Jarvis",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Ted",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Percy",
+      "EMP_FNAME": "Liang",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "willie",
+      "EMP_FNAME": "Mary",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Juan",
+      "EMP_FNAME": "Linda",
+      "HOURS": "40.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768b8"
+  },
+  "Pname": "InkjetPrinters",
+  "Pnumber": "91",
+  "Dname": "Hardware",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Joseph",
+      "EMP_FNAME": "Kirkish",
+      "HOURS": "33.0"
+    },
+    {
+      "EMP_LNAME": "Sam",
+      "EMP_FNAME": "Snedden",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alec",
+      "EMP_FNAME": "Best",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Bonnie",
+      "EMP_FNAME": "Bays",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Freed",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Gregory",
+      "EMP_FNAME": "Laurie",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Leonard",
+      "EMP_FNAME": "Moody",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Chris",
+      "EMP_FNAME": "Carter",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jenny",
+      "EMP_FNAME": "Vos",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Tom",
+      "EMP_FNAME": "Brand",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Andy",
+      "EMP_FNAME": "Vile",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Josh",
+      "EMP_FNAME": "Zell",
+      "HOURS": "48.0"
+    },
+    {
+      "EMP_LNAME": "Evan",
+      "EMP_FNAME": "Wallis",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Lisa",
+      "EMP_FNAME": "House",
+      "HOURS": "10.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768b9"
+  },
+  "Pname": "Human1",
+  "Pnumber": "95",
+  "Dname": "HR",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Ray",
+      "EMP_FNAME": "King",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jill",
+      "EMP_FNAME": "Jarvis",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Ted",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Percy",
+      "EMP_FNAME": "Liang",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "willie",
+      "EMP_FNAME": "Mary",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Johny",
+      "EMP_FNAME": "Smith",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Juan",
+      "EMP_FNAME": "Linda",
+      "HOURS": "40.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768ba"
+  },
+  "Pname": "EntityAnnot",
+  "Pnumber": "4",
+  "Dname": "Research",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "James",
+      "EMP_FNAME": "Miller",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Ramesh",
+      "EMP_FNAME": "Narayan",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Michael",
+      "EMP_FNAME": "Morgan",
+      "HOURS": "11.0"
+    },
+    {
+      "EMP_LNAME": "Andrea",
+      "EMP_FNAME": "Sondrini",
+      "HOURS": "45.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "32.5"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "7.5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768bb"
+  },
+  "Pname": "Reorganization",
+  "Pnumber": "20",
+  "Dname": "Headquarters",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "James",
+      "EMP_FNAME": "Borg",
+      "HOURS": "5.0"
+    },
+    {
+      "EMP_LNAME": "Jisha",
+      "EMP_FNAME": "Carpenter",
+      "HOURS": "25.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768bc"
+  },
+  "Pname": "Newbenefits",
+  "Pnumber": "30",
+  "Dname": "Administration",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Alicia",
+      "EMP_FNAME": "Zelaya",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Alicia",
+      "EMP_FNAME": "Zelaya",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Ahmad",
+      "EMP_FNAME": "Jabbar",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Ahmad",
+      "EMP_FNAME": "Jabbar",
+      "HOURS": "5.0"
+    },
+    {
+      "EMP_LNAME": "Jennifer",
+      "EMP_FNAME": "Wallace",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Jennifer",
+      "EMP_FNAME": "Wallace",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Wilson",
+      "EMP_FNAME": "Holmes",
+      "HOURS": "5.0"
+    },
+    {
+      "EMP_LNAME": "Wilson",
+      "EMP_FNAME": "Holmes",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Richard",
+      "EMP_FNAME": "Koelbel",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Cameron",
+      "EMP_FNAME": "Thirteen",
+      "HOURS": "45.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768bd"
+  },
+  "Pname": "ProductY",
+  "Pnumber": "2",
+  "Dname": "Research",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "James",
+      "EMP_FNAME": "Miller",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Ramesh",
+      "EMP_FNAME": "Narayan",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Michael",
+      "EMP_FNAME": "Morgan",
+      "HOURS": "11.0"
+    },
+    {
+      "EMP_LNAME": "Andrea",
+      "EMP_FNAME": "Sondrini",
+      "HOURS": "45.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "32.5"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "7.5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768be"
+  },
+  "Pname": "ProductZ",
+  "Pnumber": "3",
+  "Dname": "Research",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "James",
+      "EMP_FNAME": "Miller",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Ramesh",
+      "EMP_FNAME": "Narayan",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Michael",
+      "EMP_FNAME": "Morgan",
+      "HOURS": "11.0"
+    },
+    {
+      "EMP_LNAME": "Andrea",
+      "EMP_FNAME": "Sondrini",
+      "HOURS": "45.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "32.5"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "7.5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768bf"
+  },
+  "Pname": "Middleware",
+  "Pnumber": "63",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c0"
+  },
+  "Pname": "ProductX",
+  "Pnumber": "1",
+  "Dname": "Research",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "James",
+      "EMP_FNAME": "Miller",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Ramesh",
+      "EMP_FNAME": "Narayan",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Michael",
+      "EMP_FNAME": "Morgan",
+      "HOURS": "11.0"
+    },
+    {
+      "EMP_LNAME": "Andrea",
+      "EMP_FNAME": "Sondrini",
+      "HOURS": "45.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Joyce",
+      "EMP_FNAME": "English",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Franklin",
+      "EMP_FNAME": "Wong",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "32.5"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Smith",
+      "HOURS": "7.5"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c1"
+  },
+  "Pname": "DataMining",
+  "Pnumber": "13",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c2"
+  },
+  "Pname": "MotherBoard",
+  "Pnumber": "29",
+  "Dname": "Hardware",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Joseph",
+      "EMP_FNAME": "Kirkish",
+      "HOURS": "33.0"
+    },
+    {
+      "EMP_LNAME": "Sam",
+      "EMP_FNAME": "Snedden",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alec",
+      "EMP_FNAME": "Best",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Bonnie",
+      "EMP_FNAME": "Bays",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Freed",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Gregory",
+      "EMP_FNAME": "Laurie",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Leonard",
+      "EMP_FNAME": "Moody",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Chris",
+      "EMP_FNAME": "Carter",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jenny",
+      "EMP_FNAME": "Vos",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Tom",
+      "EMP_FNAME": "Brand",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Andy",
+      "EMP_FNAME": "Vile",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Josh",
+      "EMP_FNAME": "Zell",
+      "HOURS": "48.0"
+    },
+    {
+      "EMP_LNAME": "Evan",
+      "EMP_FNAME": "Wallis",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Lisa",
+      "EMP_FNAME": "House",
+      "HOURS": "10.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c3"
+  },
+  "Pname": "SearchEngine",
+  "Pnumber": "22",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c4"
+  },
+  "Pname": "DatabaseSystems",
+  "Pnumber": "62",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c5"
+  },
+  "Pname": "ConfigMgmt",
+  "Pnumber": "11",
+  "Dname": "Software",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Zach",
+      "EMP_FNAME": "Geller",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Penny",
+      "EMP_FNAME": "Wolowitz",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "Nandita",
+      "EMP_FNAME": "Ball",
+      "HOURS": "44.0"
+    },
+    {
+      "EMP_LNAME": "Cindy",
+      "EMP_FNAME": "Burklow",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jose",
+      "EMP_FNAME": "Barbara",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jeff",
+      "EMP_FNAME": "Chase",
+      "HOURS": "46.0"
+    },
+    {
+      "EMP_LNAME": "Kim",
+      "EMP_FNAME": "Grace",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Jake",
+      "EMP_FNAME": "Sheen",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Christina",
+      "EMP_FNAME": "Hisel",
+      "HOURS": "4.0"
+    },
+    {
+      "EMP_LNAME": "John",
+      "EMP_FNAME": "Ed",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Debra",
+      "EMP_FNAME": "Hall",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Brad",
+      "EMP_FNAME": "Knight",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Justin",
+      "EMP_FNAME": "Mark",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jon",
+      "EMP_FNAME": "Jones",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jared",
+      "EMP_FNAME": "James",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Yu",
+      "HOURS": "18.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c6"
+  },
+  "Pname": "LaserPrinters",
+  "Pnumber": "92",
+  "Dname": "Hardware",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Joseph",
+      "EMP_FNAME": "Kirkish",
+      "HOURS": "33.0"
+    },
+    {
+      "EMP_LNAME": "Sam",
+      "EMP_FNAME": "Snedden",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alec",
+      "EMP_FNAME": "Best",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Bonnie",
+      "EMP_FNAME": "Bays",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Alex",
+      "EMP_FNAME": "Freed",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Gregory",
+      "EMP_FNAME": "Laurie",
+      "HOURS": "25.0"
+    },
+    {
+      "EMP_LNAME": "Leonard",
+      "EMP_FNAME": "Moody",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Chris",
+      "EMP_FNAME": "Carter",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Jenny",
+      "EMP_FNAME": "Vos",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Tom",
+      "EMP_FNAME": "Brand",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Andy",
+      "EMP_FNAME": "Vile",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Josh",
+      "EMP_FNAME": "Zell",
+      "HOURS": "48.0"
+    },
+    {
+      "EMP_LNAME": "Evan",
+      "EMP_FNAME": "Wallis",
+      "HOURS": "40.0"
+    },
+    {
+      "EMP_LNAME": "Lisa",
+      "EMP_FNAME": "House",
+      "HOURS": "10.0"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61140a9f9baab82bee0768c7"
+  },
+  "Pname": "Computerization",
+  "Pnumber": "10",
+  "Dname": "Administration",
+  "EmployeeList": [
+    {
+      "EMP_LNAME": "Alicia",
+      "EMP_FNAME": "Zelaya",
+      "HOURS": "10.0"
+    },
+    {
+      "EMP_LNAME": "Alicia",
+      "EMP_FNAME": "Zelaya",
+      "HOURS": "30.0"
+    },
+    {
+      "EMP_LNAME": "Ahmad",
+      "EMP_FNAME": "Jabbar",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Ahmad",
+      "EMP_FNAME": "Jabbar",
+      "HOURS": "5.0"
+    },
+    {
+      "EMP_LNAME": "Jennifer",
+      "EMP_FNAME": "Wallace",
+      "HOURS": "15.0"
+    },
+    {
+      "EMP_LNAME": "Jennifer",
+      "EMP_FNAME": "Wallace",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Wilson",
+      "EMP_FNAME": "Holmes",
+      "HOURS": "5.0"
+    },
+    {
+      "EMP_LNAME": "Wilson",
+      "EMP_FNAME": "Holmes",
+      "HOURS": "20.0"
+    },
+    {
+      "EMP_LNAME": "Richard",
+      "EMP_FNAME": "Koelbel",
+      "HOURS": "35.0"
+    },
+    {
+      "EMP_LNAME": "Cameron",
+      "EMP_FNAME": "Thirteen",
+      "HOURS": "45.0"
+    }
+  ]
+}]
